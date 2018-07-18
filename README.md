@@ -8,7 +8,7 @@ Project 3/3 of udacity fsnd - Task is to create three queries on newsdata.sql on
 1. Install Vagrant and Virtualbox 
 2. Download [fullstack-nanodegree-vm](https://github.com/udacity/fullstack-nanodegree-vm) repository.
 2. Download this repository in your local machine 
-3. Download [data](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip) from this link. 
+3. Download [newsdata](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip) from this link. 
 4. Extract newsdata and this repository code inside fullstack-nanodegree vm/../vagrant folder
 6. Cd inside vagrant folder in fullstack-nanodegree-vm repo and enter command vagrant up to setup vm 
 7. To launch vagrant vm enter vagrant ssh 
